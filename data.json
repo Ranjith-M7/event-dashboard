@@ -1,0 +1,45 @@
+[
+    {
+      "Year": 2019,
+      "Male": 2000,
+      "Female": 800,
+      "Children": 200,
+      "TotalPeople": 3000
+    },
+    {
+      "Year": 2020,
+      "Male": 3500,
+      "Female": 1000,
+      "Children": 100,
+      "TotalPeople": 4600
+    },
+    {
+      "Year": 2021,
+      "Male": 4000,
+      "Female": 3500,
+      "Children": 500,
+      "TotalPeople": 7000
+    },
+    {
+      "Year": 2022,
+      "Male": 5000,
+      "Female": 1600,
+      "Children": 300,
+      "TotalPeople": 6900
+    },
+    {
+      "Year": 2023,
+      "Male": 4500,
+      "Female": 2000,
+      "Children": 700,
+      "TotalPeople": 7200
+    },
+    {
+      "Year": 2024,
+      "Male": 4890,
+      "Female": 2610,
+      "Children": 500,
+      "TotalPeople": 8000
+    }
+  ]
+  
